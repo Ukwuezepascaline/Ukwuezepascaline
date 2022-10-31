@@ -1,4 +1,4 @@
-![avatercropped](https://images.app.goo.gl/g6CRer1LEq684K7TA)
+![avatercropped](https://images.app.goo.gl/g6CRer1LEq684K7TA.jpg)
 
 
 - 👋 Hi, I’m Pascaline, a Full-Stack Developer passionate about solving real life problems with code. My background is in Nutrition and Dietetics, but my love for Tech and building meaningful life-changing projects overtook me (the heart wants what it wants 🥰🥰). I'm currently an intern at Alx and I love it.
