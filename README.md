@@ -1,4 +1,4 @@
- 👋 Hi, I’m Pascaline, a Full-Stack Developer passionate about solving real life problems with code. My background is in Nutrition and Dietetics, but my love for Tech and building meaningful life-changing projects overtook me (the heart wants what it wants 🥰🥰). I'm currently an intern at Alx and I love it.
+ 👋 Hi, I’m Pascaline, a Full-Stack Developer passionate about solving real life problems with code. My background is in Nutrition and Dietetics, but my love for Tech and building meaningful life-changing projects overtook me (the heart wants what it wants 🥰🥰). I recently graduated from Alx Software Engineering program and am so proud of my accomplishment.
 
 
 - 👀 I’m interested in using data for good by building front-end and back-end projects that meet the daily needs of users.
